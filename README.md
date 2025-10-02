@@ -76,6 +76,6 @@ gcc water_molecules.c -o molecules
 | :--- | :--- |
 | **Разработчик** | Андреев Артём |
 | **Группа** | БТИИ-251 |
-| **Связь** | [Ваша почта/GitHub/Telegram] |
+| **Связь** | [Telegram - @Temmik1, Mail почта - temmi556@mail.ru] |
 ---
 
